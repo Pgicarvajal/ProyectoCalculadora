@@ -7,7 +7,8 @@ num2=int((input("Ingrese segundo numero")))
 
 def suma(num1,num2):
     sumar=num1+num2
+    return(sumar)
 
-print("La suma es :",suma)
+print("La suma es :",suma(num1,num2))
 
 
