@@ -16,13 +16,6 @@ def suma(num1,num2):
 
 print("La suma es :",suma(num1,num2))
 >>>>>>> 424f04cd6e64c17551c8e758ddc1f60034e7b79d
-#resta
-
-num1=int(input("Ingrese un numero:\n"))
-num2=int(input("Ingrese el otro numero:\n"))
-
-def
-
 
 <<<<<<< HEAD
 
@@ -50,3 +43,12 @@ def mult(numa,numb):
 print("El resultado es :",mult(numa,numb))
 
 >>>>>>> 2b5418ffaf1c3acddf0b1f0cde1bfbffba98e631
+
+# RESTA
+num1=int(input("Ingrese un numero:\n"))
+num2=int(input("Ingrese el otro numero:\n"))
+
+def restar(num1,num2):
+    Resta=num1-num2
+    return restar
+print("El resultado total es: ", restar(num1,num2))
