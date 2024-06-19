@@ -2,8 +2,8 @@
 # TRABAJAREMOS PARA CREAR UNA CALCULADORA DE MANERA COLABORATIVA
 
 #SUMATORIA
-num1=int(input("Ingrese primer numero"))
-num2=int((input("Ingrese segundo numero")))
+num1=int(input("Ingrese primer numero\n"))
+num2=int((input("Ingrese segundo numero\n")))
 
 def suma(num1,num2):
     sumar=num1+num2
@@ -14,7 +14,7 @@ print("La suma es :",suma(num1,num2))
 
 
 
-
+print("####################################################################################################")
 
 
 
@@ -25,7 +25,7 @@ print("La suma es :",suma(num1,num2))
 
 
 #MULTIPLICACION
-numa=int(input("INgrese primer multiplo\n"))
+numa=int(input("Ingrese primer multiplo\n"))
 numb=int(input("Ingrese segundo multiplo\n"))
 
 def mult(numa,numb):
