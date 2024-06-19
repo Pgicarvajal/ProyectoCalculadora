@@ -52,3 +52,5 @@ def restar(num1,num2):
     Resta=num1-num2
     return restar
 print("El resultado total es: ", restar(num1,num2))
+
+hola hola
