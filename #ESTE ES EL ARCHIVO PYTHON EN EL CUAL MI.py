@@ -12,3 +12,25 @@ def suma(num1,num2):
 print("La suma es :",suma(num1,num2))
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+#MULTIPLICACION
+numa=int(input("INgrese primer multiplo\n"))
+numb=int(input("Ingrese segundo multiplo\n"))
+
+def mult(numa,numb):
+    multiplicar=numa*numb
+    return multiplicar
+
+print("El resultado es :",mult(numa,numb))
+
