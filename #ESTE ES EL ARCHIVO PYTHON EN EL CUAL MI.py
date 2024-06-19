@@ -2,10 +2,12 @@
 # TRABAJAREMOS PARA CREAR UNA CALCULADORA DE MANERA COLABORATIVA
 
 
+num1=int(input("Ingrese primer numero"))
+num2=int((input("Ingrese segundo numero")))
 
-miau miau
+def suma(num1,num2):
+    sumar=num1+num2
 
-
-por la cresta los super 8 estan a 300 y 2 por 500
+print("La suma es :",suma)
 
 
